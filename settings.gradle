@@ -1,0 +1,2 @@
+rootProject.name = "Futbolito Pocket"
+include ':app'
